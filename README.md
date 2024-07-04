@@ -50,3 +50,7 @@ Imported transformed data and created an interactive dashboard to visualize key 
 4. Visualization: Created interactive dashboards in PowerBI to provide meaningful insights and facilitate data-driven decision-making.
    
 This project demonstrates my ability to design and implement automated ETL pipelines using cloud services and modern data engineering tools. It showcases my skills in cloud computing, data transformation, and visualization, contributing to efficient and effective data management solutions.
+
+
+
+
