@@ -90,5 +90,6 @@ CREATE TABLE IF NOT EXISTS customer_churn(
    Churn_Score INTEGER,
    Churn_Reason TEXT
 )
+![image](https://github.com/user-attachments/assets/18b4cfc4-d058-4a45-a437-45e8613b2186)
 
 
